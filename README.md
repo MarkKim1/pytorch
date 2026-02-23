@@ -73,6 +73,5 @@ Validation Accuracy: 78.12%
 MIT License
 
 ## 👤 Author
-Your Name
-LinkedIn: https://linkedin.com/in/yourprofile
-GitHub: https://github.com/yourusername
+Minseok Kim
+LinkedIn: www.linkedin.com/in/minseokkim97
